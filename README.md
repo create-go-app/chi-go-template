@@ -14,7 +14,7 @@ cgapp create
 # Choose a backend framework:
 #   net/http
 #   fiber
-# > go-chi
+# > chi
 ```
 
 2. Rename `.env.example` to `.env` and fill it with your environment values.
