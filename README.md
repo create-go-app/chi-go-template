@@ -31,6 +31,8 @@ cgapp create
 make docker.run
 ```
 
+5. Go to [127.0.0.1:5000/hc/status](http://127.0.0.1:5000/hc/status) and see `HTTP 200 OK`.
+
 ## 📦 Used packages
 
 | Name                                                                  | Version  | Type       |
