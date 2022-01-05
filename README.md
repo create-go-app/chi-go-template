@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/Go-1.17+-00ADD8?style=for-the-badge&logo=go" alt="go version" />&nbsp;<a href="https://goreportcard.com/report/github.com/create-go-app/fiber-go-template" target="_blank"><img src="https://img.shields.io/badge/Go_report-A+-success?style=for-the-badge&logo=none" alt="go report" /></a>&nbsp;<img src="https://img.shields.io/badge/license-Apache_2.0-red?style=for-the-badge&logo=none" alt="license" />
 
-[chi](https://go-chi.io/#/) iis a lightweight, idiomatic and composable router for building Go HTTP services.
+[Chi](https://go-chi.io/#/) is a lightweight, idiomatic and composable router for building Go HTTP services.
 
 ## ⚡️ Quick start
 
